@@ -475,7 +475,7 @@ button.main_bt a:hover { color: #fa3e19; }
 
 .map_section{
 	width: 100%;
-	float: left;
+	float: center;
 	padding-top: 90px;
 }
 
